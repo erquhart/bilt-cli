@@ -1,0 +1,26 @@
+{
+  "name": "bilt-cli",
+  "version": "0.0.1",
+  "description": "CLI for Bilt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erquhart/bilt-cli.git"
+  },
+  "keywords": [
+    "build",
+    "system",
+    "make",
+    "tool",
+    "cli"
+  ],
+  "author": "Shawn Erquhart <shawn@erquh.art> (https://erquh.art)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erquhart/bilt-cli/issues"
+  },
+  "homepage": "https://github.com/erquhart/bilt-cli#readme"
+}
